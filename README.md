@@ -1,4 +1,4 @@
-### Summary and Analysis of the Three Plots:
+### Detailed Analysis on Amazon Sales:
 
 #### 1. **Bar Plot: Size vs Count**
    - **Description**: This bar plot represents the distribution of product sizes and their respective counts. The x-axis shows different sizes (S, M, L, XL, etc.), and the y-axis represents the frequency of each size.
